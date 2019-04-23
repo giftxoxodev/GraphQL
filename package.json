@@ -1,0 +1,29 @@
+{
+  "name": "graphql-xoxoday",
+  "version": "1.0.0",
+  "description": "Sample demo project of explaining how GraphQL works",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giftxoxodev/GraphQL.git"
+  },
+  "keywords": [
+    "graphql",
+    "xoxoday"
+  ],
+  "author": "Sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giftxoxodev/GraphQL/issues"
+  },
+  "homepage": "https://github.com/giftxoxodev/GraphQL#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.8.0",
+    "graphql": "^14.2.1",
+    "graphql-tools": "^4.0.4"
+  }
+}
